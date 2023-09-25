@@ -5,3 +5,19 @@ body {
 h1 {
     color: darkblue;
 }
+/* Seletor de classe */
+l.cubo {
+    
+    background-color: #3498db;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+.container{
+    background-color: darkslategrey;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;  
+ }
