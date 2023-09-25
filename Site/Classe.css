@@ -2,11 +2,9 @@
 body {
     background-color: lightblue;
 }
-h1 {
-    color: darkblue;
-}
+
 /* Seletor de classe */
-l.cubo {
+.cubo {
     
     background-color: #3498db;
     color: #ffffff;
@@ -20,4 +18,9 @@ l.cubo {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;  
+ }
+ #nav-tabContent{
+   background-image: -moz-element();
+
+
  }
